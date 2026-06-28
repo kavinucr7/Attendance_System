@@ -278,7 +278,7 @@ td{padding:12px 16px;font-size:.85rem;vertical-align:middle}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
 <script>
 // ── CONFIG ──────────────────────────────────────────────────
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycby5yXY9eyHYl1Zh9bkkbPATi-cTAgWc_da_Sz2EWkj8KOyvcxVyy_Iw0sBBluUprvVeeQ/exec';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwR1TN1kXarsTQ9_sdi0psxXqs6KwDO9TDCCe9ZP8w_6x6ZYAKQA8tCtsqHXy44bLlLfA/exec';
 const AUTO_SEC   = 10; // auto-refresh interval in seconds
 
 // ── STATE ────────────────────────────────────────────────────
